@@ -1,0 +1,32 @@
+.login {
+	background-color:none;
+	border: none;
+	margin-right: 75px;
+	height: 75px;
+} 
+.valider  {
+	border-spacing: solid;
+
+}
+.menu{
+    text-align: center;
+    font-weight: bold;
+    margin:50px;
+    padding:10px;
+    margin-bottom: 80px;
+}
+.menu a{
+
+    color: #7a583f;
+    text-decoration: none;
+    padding: 0 50px;
+}
+
+.nav-link {
+
+}
+
+.nav-item nav-link {
+    color :#f9deef;
+
+}
